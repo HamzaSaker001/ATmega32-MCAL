@@ -68,7 +68,7 @@ Each module follows a 4-file structure:
 **Hamza Alaa Saker**
 Mechatronics Engineering Student — Zagazig University
 [![GitHub](https://img.shields.io/badge/GitHub-HamzaSaker001-black?logo=github)](https://github.com/HamzaSaker001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Saker-blue?logo=linkedin)](https://linkedin.com/in/hamzasaker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Saker-blue?logo=linkedin)](https://www.linkedin.com/in/hamza-saker/)
 
 ---
 
